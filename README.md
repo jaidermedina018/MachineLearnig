@@ -1,2 +1,7 @@
 # MachineLearnig
-Entrando al mundo de Machine Learnig
+## Practicando
+Entrando al mundo de **Machine Learnig**
+
+_Ejemplos_
+
+`python`
